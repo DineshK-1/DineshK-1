@@ -1,5 +1,6 @@
 # Projects:
-[![React](https://img.shields.io/badge/Paper%20Crypto%20Trading-950740?style=for-the-badge&logo=react)](https://papercrypto.vercel.app/)
+[![React](https://img.shields.io/badge/Paper%20Crypto%20Trading-950740?style=for-the-badge&logo=react)](https://papercrypto.vercel.app/Cryptos)
+[![NextJS](https://img.shields.io/badge/Texus%IO-950740?style=for-the-badge&logo=next)](https://texus.io/team)
 [![Django](https://img.shields.io/badge/Crypto%20Currency%20Screener-16161d?style=for-the-badge&logo=django)](https://crypto-apes.up.railway.app/Cryptos/1)
 
 
